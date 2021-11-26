@@ -1,0 +1,4 @@
+[01-Oct-2020 17:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/eoyxa4epwf5t/public_html/site/wp-content/themes/daads/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eoyxa4epwf5t/public_html/site/wp-content/themes/daads/functions.php on line 25
